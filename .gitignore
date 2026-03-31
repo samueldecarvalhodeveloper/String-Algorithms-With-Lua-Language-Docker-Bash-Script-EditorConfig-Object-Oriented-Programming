@@ -1,0 +1,35 @@
+# Lua bytecode files
+*.luac
+
+# Temporary files created by text editors or IDEs
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+out
+
+# Sublime Text project files
+*.sublime-workspace
+*.sublime-project
+
+# VSCode settings
+.vscode/
+
+# Editor backup files
+*~
+
+# Mac OS generated files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# LuaRocks build directories
+luarocks/
+
+# Packaged Lua dependencies
+/rockspecs/
+
+# Local environment files
+.env
